@@ -30,7 +30,7 @@ Justice for those who fight for freedom.
 
 Linux/*nix **sysadmin**, always looking for new IT solutions for automation. People shouldn't be wasting their time on meaningless repetitive tasks.
 
-**Continuous service improvement** because things can always be better for everyone.
+**Continual service improvement** because things can always be better for everyone.
 
 **Service design**, give the right people the chance to work together and you will be amazed at what can be accomplished.
 
