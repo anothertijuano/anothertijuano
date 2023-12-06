@@ -8,7 +8,6 @@
 <p align="center">
 <br>
 <a href="https://gitlab.com/anothertijuano" target="_blank"><img alt="" src="https://img.shields.io/badge/GitLab-000?logo=gitlab&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://twitter.com/anothertijuano" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/anothertijuano" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&style=for-the-badge" style="vertical-align:center" /></a></p>
 <br><br><br><br><br>
 
